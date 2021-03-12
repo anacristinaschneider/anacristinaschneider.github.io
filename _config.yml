@@ -1,5 +1,5 @@
 locale: "pt-BR"
-title: Psicóloga Ana Cristina Schneider # Title of your site
+title: "Psicóloga Ana Cristina Schneider" # Title of your site
 url: "http://ana.cristinask.com.br" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
@@ -14,8 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
 author:
   name: Ana Cristina Schneider
   email: ana@cristinask.com
-  twitter: @AnaCristinaS_
-  image: avatar.jpg
+  twitter: "@AnaCristinaS_"
 
 # Social details for the jekyll-seo-tag gem
 # social:
