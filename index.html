@@ -1,51 +1,48 @@
 ---
 layout: default
 ---
+
 <div id="main">
-
   <section>
-						<header class="major">
-							<h2>Ipsum lorem dolor aliquam ante commodo<br>
-							magna sed accumsan arcu neque.</h2>
-						</header>
-						<p>Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia.</p>
-						<ul class="actions">
-							<li><a href="#" class="button">Learn More</a></li>
-						</ul>
-					
+    <header class="major">
+      <h2>
+        {{ site.data.intro.title }}
+      </h2>
+    </header>
+    <p>
+      {{ site.data.intro.description }}
+    </p>
+    <ul class="actions">
+      <li><a href="{{site.data.intro.link.url}}" class="button">{{site.data.intro.link.text}}</a></li>
+    </ul>
   </section>
 
   <section>
-    {% for post in site.posts limit:1 %}
-      <header>
-        <h1>{{ post.title }}</h1>
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-      </header>
-      <section>
-        {{ post.content }}
-        <p class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></p>
-      </section>
-    {% endfor %}
-  </section>
-
-  <section>
+    <header>Minha publicações mais recentes</header>
     <div class="row">
-      {% for post in site.posts offset:1 %}
-        <article class="{% cycle '6u', '6u$' %} 12u(small)">
-          <header>
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          </header>
-          <section>
-            {{ post.excerpt }}
-          </section>
-          <footer>
-            <ul class="actions">
-              <li><a href="{{ post.url }}" class="button">Read More</a></li>
-              <li class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></li>
-            </ul>
-          </footer>
-        </article>
+      {% for post in site.posts limit: 6 %}
+      <article class="{% cycle '6u', '6u$' %} 12u(small)">
+        <header>
+          <h2>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h2>
+        </header>
+        <section>
+          <img class="fit image" src="/images/posts/{{post.image_thumb}}" />
+          {{ post.excerpt }}
+        </section>
+        <footer>
+          <ul class="actions">
+            <li><a href="{{ post.url }}" class="button">Ler mais</a></li>
+          </ul>
+        </footer>
+      </article>
       {% endfor %}
     </div>
+
+    <footer>
+      <a href="/all-posts">Ver todas as publicações</a>
+    </footer>
+    
   </section>
 </div>

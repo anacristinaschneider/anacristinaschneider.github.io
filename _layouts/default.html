@@ -25,16 +25,13 @@
 
 	<body id="top">
     <header id="header">
-      <a href="{{ site.url }}" class="image avatar"><img class="editable" src="/images/avatar.jpg" alt="{{ site.author.name }}"></a>
-      <h1 class="editable"><strong>I am <a href="/">Strata Reloaded</a></strong>, a super simple<br>
-      responsive site template freebie<br>
-      adapted by <a href="http://comfusionllc.com">Comfusion LLC</a>.</h1>
+			<a href="{{ site.url }}" class="image avatar"><img src="/images/{{ site.data.intro.image }}" alt="{{ site.author.name }}"></a>
+      <h1 class="editable"><strong>{{site.data.intro.minidescription}}</strong></h1>
     </header>
 
     {{ content }}
 
     <footer id="footer">
-      <p class="editor-link"><a href="cloudcannon:collections/_data/social.yml" class="button"><strong>&#9998;</strong> Update Social Icons</a></p>
       <ul class="icons">
         {% for account in site.data.social %}
 					<li>
@@ -52,9 +49,8 @@
         {% endif %}
       </ul>
       <ul class="copyright">
-          <li>&copy; Untitled</li>
+          <li>&copy; 2021 Ana Cristina Schneider</li>
           <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-          <li>Theme: <a href="http://comfusionllc.com">Comfusion LLC</a></li>
       </ul>
     </footer>
 

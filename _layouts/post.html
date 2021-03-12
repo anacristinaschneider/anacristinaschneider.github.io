@@ -9,6 +9,7 @@ layout: default
     </header>
 
     <section>
+      <img src="/images/posts/{{page.image}}" class="fit image">
       {{ content }}
     </section>
 
@@ -20,6 +21,7 @@ layout: default
             <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
           </header>
           <section>
+            <img class="fit image" src="/images/posts/{{page.previous.image_thumb}}" />
             {{ page.previous.excerpt }}
           </section>
           <footer>
@@ -36,6 +38,7 @@ layout: default
             <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
           </header>
           <section>
+            <img class="fit image" src="/images/posts/{{page.next.image_thumb}}" />
             {{ page.next.excerpt | markdownify }}
           </section>
           <footer>

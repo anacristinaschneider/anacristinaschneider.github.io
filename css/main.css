@@ -3164,3 +3164,5 @@
  	.cms-editor-active .editor-link {
  		display: inline-block;
  	}
+
+	img[alt~=imagem] { width: 200px; }
