@@ -11,11 +11,8 @@ Possuo experiência há 8 anos em atendimento nas áreas de Clínica, Saúde Men
 Currículo Lattes
 </a>
 
-# Psicanálise
+# O que leva um sujeito a procurar um psicanalista?
 
 ![imagem ana cristina](/images/girassol1.jpg)
-
-## O que leva um sujeito a procurar um psicanalista?
-
 
 Segundo Bruce Fink (2018, p. 22) ocorre uma desestabilização da organização sintomática a qual pode gerar alguma crise, alguma perturbação, algum desanimo, alguma estagnação. Ou seja, o sujeito se depara com algum acontecimento confuso que lhe parece de aspectos indecifráveis. A [psicanálise](http://localhost:4000/update/2021/03/12/psicanalise-e-psicoterapia/) pode colaborar, por meio da associação livre, numa produção de um saber sobre si. Abre-se um espaço ao sujeito e lhe pede que nessa vivência fale tudo o que vier na cabeça, sem filtros nenhum de seus pensamentos com o objetivo de trazer luz às manifestações do insconsciente. A produção nesse trajeto de análise permite ao sujeito: "uma nova abordagem das coisas, uma nova maneira de lidar com as pessoas, um novo modo de funcionar no mundo"; um livrar-se de algumas amarras constituídas de agustia e mal-estar. 
