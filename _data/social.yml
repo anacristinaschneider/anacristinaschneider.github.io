@@ -1,8 +1,16 @@
 - name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
+  link: 'https://www.facebook.com/profile.php?id=100005708581323'
   social_icon: Facebook
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: Whatsapp
+  link: 'https://api.whatsapp.com/send?phone=5541992261526'
+  social_icon: whatsapp
+  new_window: true
+- name: Twitter
+  link: 'https://twitter.com/AnaCristinaS_'
+  social_icon: twitter
+  new_window: true
+- name: Instagram
+  link: 'https://www.instagram.com/anacristinaschneider_/'
+  social_icon: instagram
   new_window: true

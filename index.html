@@ -12,12 +12,16 @@ layout: default
       {{ site.data.intro.description }}
     </p>
     <ul class="actions">
-      <li><a href="{{site.data.intro.link.url}}" class="button">{{site.data.intro.link.text}}</a></li>
+      {% for link in site.data.intro.links %}
+      <li><a href="{{link.url}}" class="button">{{link.text}}</a></li>
+      {% endfor %}
     </ul>
   </section>
 
   <section>
-    <header>Minha publicações mais recentes</header>
+    <header class="major">
+      <h2 style="font-size: 2em; margin-bottom: 20px">Minha publicações mais recentes</h2>
+    </header>
     <div class="row">
       {% for post in site.posts limit: 6 %}
       <article class="{% cycle '6u', '6u$' %} 12u(small)">

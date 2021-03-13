@@ -1,0 +1,8 @@
+- url: "/"
+  texto: "Início"
+- url: "/sobre"
+  texto: "Sobre mim"
+- url: "/all-posts"
+  texto: "Publicações"
+- url: "/contato"
+  texto: "Contato"

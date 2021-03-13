@@ -1,8 +1,17 @@
-title: AAA BBB
-minidescription: Psicóloga
-description: bbb ccc
-image: avatar.jpg
-fundo: bg.jpg
-link:
-  text: Outro lugar
-  url: 'http://www.ufpr.br'
+title: Bem-vinda e Bem-vindo
+minidescription:
+  - Ana Cristina Schneider
+  - CPR 08/19054
+  - Psicologia / Psicanálise
+description: >
+  Sou Psicóloga Clínica e atulmente atuo em consultório particular com atendimento 
+  psicológico online voltado para adolescentes, adultos e idosos. Ao longo da vida estamos sujeitos a 
+  passar por momentos difíceis, de embaraços em que vinslumbrar uma saída possível é desafiador. 
+  Para auxiliar nessa trajetória, a análise possibilita descobrir novos caminhos para enfrentar 
+  algumas dificuldades a partir do alcance de um saber que o sujeito irá contruir sobre si próprio nesse processo.
+image: perfil.jpg
+links:
+  - text: Sobre mim
+    url: '/sobre'
+  - text: Agendar consulta
+    url: '/contato'

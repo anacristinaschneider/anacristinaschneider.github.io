@@ -26,7 +26,16 @@
 	<body id="top">
     <header id="header">
 			<a href="{{ site.url }}" class="image avatar"><img src="/images/{{ site.data.intro.image }}" alt="{{ site.author.name }}"></a>
-      <h1 class="editable"><strong>{{site.data.intro.minidescription}}</strong></h1>
+	{% for mini in site.data.intro.minidescription %}		
+      <h1><strong>{{mini}}</strong></h1>
+    {% endfor %}
+    
+    <div id="menu">
+    	{% for menu in site.data.menu %}		
+	      <a href="{{menu.url}}">{{menu.texto}}</a><br>	
+    	{% endfor %}
+    </div>
+    
     </header>
 
 		<div id="main">

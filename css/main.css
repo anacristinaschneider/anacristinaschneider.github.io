@@ -1560,7 +1560,8 @@
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		/*color: #a2a2a2;*/
+		color: #656565;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1610,6 +1611,7 @@
 	h1 {
 		font-size: 2em;
 		line-height: 1.5em;
+		margin-bottom: 1em;
 	}
 
 	h2 {
@@ -1735,7 +1737,7 @@
 	}
 
 	header.major h2 {
-		font-size: 2em;
+		font-size: 3em;
 	}
 
 /* Form */
@@ -2508,11 +2510,11 @@
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.4);
+				color: rgba(255, 255, 255, 0.8);
 			}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(255, 255, 255, 0.8);
 			font-size: 0.8em;
 			list-style: none;
 			margin: 1em 0 0 0;
@@ -2540,10 +2542,11 @@
 /* Main */
 
 	#main {
-		margin-left: 35%;
-		max-width: 54em;
+		margin-left: auto;
+		/*max-width: 54em;*/
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
+		text-align: justify;
 	}
 
 		#main > section {
@@ -2831,7 +2834,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 13pt;
 			}
 
 	}
@@ -3165,4 +3168,24 @@
  		display: inline-block;
  	}
 
-	img[alt~=imagem] { width: 200px; }
+	img[alt~=imagem] { 
+		display: block;
+		margin: 0 0 2em 0;
+		width: 100%;
+	}
+
+	#menu {
+		margin-top: 20px;
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+	}
+
+	#menu a{
+		color: rgba(255, 255, 255, 0.8);
+		align-self: flex-end;
+	}
+
+	#menu a:hover{
+		color: #49bf9d;
+	}
