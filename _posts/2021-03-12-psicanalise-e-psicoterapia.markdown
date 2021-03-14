@@ -13,3 +13,14 @@ Freud, então, acredita que tais sintomas são atos de repetição ligados a cen
 
 Essa cena precisa ser recordada e elaborada para que não seja repetida. Assim, aparece a possibilidade de mudança de posição do sujeito em relação ao seu sintoma.
 Os traumas de que Freud trata, não são apenas aqueles traumas claros e perceptíveis, mas também acontecimentos corriqueiros do cotidiano em que, às vezes, não se tem condições de elaboração naquele momento. 
+
+
+### Referências Bibliográficas:
+
+Freud, S. (1914). Recordar, repetir e elaborar. ed. Standard Brasileira das Obras Psicológicas Completas. RJ, Ed. Imago, 1996, v. XII.
+
+<a href="http://ana.cristinask.com/contato/" class="button" target="_blank">
+Agendar Consulta
+</a>
+
+[Ver todas as publicações](http://ana.cristinask.com/all-posts/)

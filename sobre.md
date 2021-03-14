@@ -15,4 +15,13 @@ Currículo Lattes
 
 ![imagem ana cristina](/images/girassol1.jpg)
 
-Segundo Bruce Fink (2018, p. 22) ocorre uma desestabilização da organização sintomática a qual pode gerar alguma crise, alguma perturbação, algum desanimo, alguma estagnação. Ou seja, o sujeito se depara com algum acontecimento confuso que lhe parece de aspectos indecifráveis. A [psicanálise](http://localhost:4000/update/2021/03/12/psicanalise-e-psicoterapia/) pode colaborar, por meio da associação livre, numa produção de um saber sobre si. Abre-se um espaço ao sujeito e lhe pede que nessa vivência fale tudo o que vier na cabeça, sem filtros nenhum de seus pensamentos com o objetivo de trazer luz às manifestações do insconsciente. A produção nesse trajeto de análise permite ao sujeito: "uma nova abordagem das coisas, uma nova maneira de lidar com as pessoas, um novo modo de funcionar no mundo"; um livrar-se de algumas amarras constituídas de agustia e mal-estar. 
+Segundo Fink (2018, p. 22) ocorre uma desestabilização da organização sintomática a qual pode gerar alguma crise, alguma perturbação, algum desanimo, alguma estagnação. Ou seja, o sujeito se depara com algum acontecimento confuso que lhe parece de aspectos indecifráveis. A [psicanálise](http://localhost:4000/update/2021/03/12/psicanalise-e-psicoterapia/) pode colaborar, por meio da associação livre, numa produção de um saber sobre si. Abre-se um espaço ao sujeito e lhe pede que nessa vivência fale tudo o que vier na cabeça, sem filtros nenhum de seus pensamentos com o objetivo de trazer luz às manifestações do insconsciente. A produção nesse trajeto de análise permite ao sujeito: "uma nova abordagem das coisas, uma nova maneira de lidar com as pessoas, um novo modo de funcionar no mundo"; um livrar-se de algumas amarras constituídas de agustia e mal-estar. 
+
+### Referências Bibliográficas: 
+
+Fink, B. Introdução clínica à psicanálise lacaniana; tradução Vera Ribeiro. - 1 Ed. - Rio de Janeiro: Zahar, 2018.
+
+
+<a href="http://ana.cristinask.com/contato/" class="button" target="_blank">
+Agendar Consulta
+</a>
