@@ -13,7 +13,7 @@ Whatsapp
 <a id="zl-url" class="zl-url" href="https://www.doctoralia.com.br/ana-cristina-schneider/psicanalista-psicologo/curitiba" rel="nofollow" data-zlw-doctor="ana-cristina-schneider" data-zlw-type="big_with_calendar" data-zlw-opinion="false" data-zlw-hide-branding="true">Ana Cristina Schneider - Doctoralia.com.br</a><script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = "//platform.docplanner.com/js/widget.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","zl-widget-s");</script>
 
 
-Para o atendimento online, assegure-se de estar em local adequado para sua privacidade e sigilo. Aconselha-se o uso de fones a fim de melhorar a intelocução.
+Para o atendimento online, assegure-se de estar em local adequado para sua privacidade e sigilo. Aconselha-se o uso de fones a fim de melhorar a interlocução.
 
 
 As Resoluções <a href="https://e-psi.cfp.org.br/resolucao-cfp-no-11-2018/" target="_blank">
