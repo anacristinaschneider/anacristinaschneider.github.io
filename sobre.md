@@ -22,6 +22,6 @@ Segundo Fink (2018, p. 22) ocorre uma desestabilização da organização sintom
 Fink, B. Introdução clínica à psicanálise lacaniana; tradução Vera Ribeiro. - 1 Ed. - Rio de Janeiro: Zahar, 2018.
 
 
-<a href="http://ana.cristinask.com/contato/" class="button" target="_blank">
+<a href="http://ana.cristinask.com/contato/" class="button">
 Agendar Consulta
 </a>

@@ -19,7 +19,7 @@ Os traumas de que Freud trata, não são apenas aqueles traumas claros e percept
 
 Freud, S. (1914). Recordar, repetir e elaborar. ed. Standard Brasileira das Obras Psicológicas Completas. RJ, Ed. Imago, 1996, v. XII.
 
-<a href="http://ana.cristinask.com/contato/" class="button" target="_blank">
+<a href="http://ana.cristinask.com/contato/" class="button"S>
 Agendar Consulta
 </a>
 
