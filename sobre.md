@@ -1,25 +1,35 @@
 ---
 layout: default
 ---
+
+![imagem ana cristina](/images/livros.jpg)
+
 # Sobre mim
 
 ![imagem ana cristina](/images/anacristina.jpg)
 
-Possuo experiência há 8 anos em atendimento nas áreas de Clínica, Saúde Mental e Rede Pública de Saúde. Sou graduada em Psicologia pela Universidade Federal do Paraná (UFPR) (2013), especialista em Psicologia Clínica - Abordagem Psicanalítica na Pontifícia Universidade Católica do Paraná (PUC/PR) (2018). Atuei cerca de 5 anos como Psicóloga Clínica no Centro de Atenção Psicossocial AD (Álcool e outras Drogas) e em Centro de Atenção Psicossocial II (Transtornos mentais) em Piraquara/PR. Atualmente realizo formação continuada na Escola Brasileira de Psicanálise - Seção Sul, atuo como Psicóloga Clínica em consultório particular e em clínicas sociais.
+
+Sou Ana Cristina Schneider, psicóloga e psicanalista especialista em Psicologia Clínica. Meu trabalho é orientado pela teoria da Psicanálise, a qual tem como proposta escutar e acolher o sofrimento e a angustia dos sujeitos. Nesse sentido, minha intenção como analista é propor um espaço propício a cada sujeito para falar e se interrogar sobre si mesmo. Nesse processo de análise, permite-se a cada um a possibilidade de construir sobre si próprio um saber, o qual lhe ofereça a possibilidade de se posicionar na vida consoante seu desejo. Ou seja, viabilizar o bem estar por meio da oportunidade de se colocar como autor da própria história.
+
+
+# Experiência:
+
+ Possuo experiência há 8 anos em atendimento nas áreas de Clínica, Saúde Mental e Rede Pública de Saúde. Atuei, sendo servidora publica no município de Piraquara/PR, como Psicóloga Clínica no Centro de Atenção Psicossocial AD (Álcool e outras Drogas) e em Centro de Atenção Psicossocial II (Transtornos Mentais). Atualmente atuo como psicóloca clínica e psicanalista em consultório particular com atendimento psicológico individual e de grupo online, voltados para adolescentes, adultos e idosos. Realizo formação continuada na Escola Brasileira de Psicanálise - Seção Sul.
+
+# Formação:
+
+Psicologia, Universidade Federal do Paraná (UFPR) (2013);
+Pós-Graduação Psicologia Clínica - Abordagem Psicanalítica, Pontifícia Universidade Católica do Paraná (PUC/PR);
+Extensão universitária em Controle Social em Saúde Mental, Universidade Federal do Paraná, (UFPR);
+Curso: Os fundamentos de Freud a Lacan, Escola Brasileira de Psicanálise Delegação Paraná (EBP);
+Curso: Álcool e Outras Drogas: da Coerção à Coesão, Universidade Federal de Santa Catarina (UFSC);
+Curso: Atenção à Situações de Crise em Saúde Mental, Universidade Federal de Santa Catarina, (UFSC);
+Curso: Percorrendo o ensino de Lacan, Escola Brasileira de Psicanálise Delegação Paraná (EBP);
+Extensão universitária em Teoria e Clínica das Psicoses em Freud e Lacan, Universidade Positivo (UP).
 
 <a href="http://lattes.cnpq.br/7350355501479055" class="button" target="_blank">
 Currículo Lattes
 </a>
-
-# O que leva um sujeito a procurar um psicanalista?
-
-![imagem ana cristina](/images/girassol1.jpg)
-
-Segundo Fink (2018, p. 22) ocorre uma desestabilização da organização sintomática a qual pode gerar alguma crise, alguma perturbação, algum desanimo, alguma estagnação. Ou seja, o sujeito se depara com algum acontecimento confuso que lhe parece de aspectos indecifráveis. A [psicanálise](http://localhost:4000/update/2021/03/12/psicanalise-e-psicoterapia/) pode colaborar, por meio da associação livre, numa produção de um saber sobre si. Abre-se um espaço ao sujeito e lhe pede que nessa vivência fale tudo o que vier na cabeça, sem filtros nenhum de seus pensamentos com o objetivo de trazer luz às manifestações do insconsciente. A produção nesse trajeto de análise permite ao sujeito: "uma nova abordagem das coisas, uma nova maneira de lidar com as pessoas, um novo modo de funcionar no mundo"; um livrar-se de algumas amarras constituídas de agustia e mal-estar. 
-
-### Referências Bibliográficas: 
-
-Fink, B. Introdução clínica à psicanálise lacaniana; tradução Vera Ribeiro. - 1 Ed. - Rio de Janeiro: Zahar, 2018.
 
 
 <a href="http://ana.cristinask.com/contato/" class="button">
